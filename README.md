@@ -9,4 +9,4 @@ subtree rooted at x.
 inorder walk of T .
 
 
-please refer document in info
+please refer info.pdf for more information
